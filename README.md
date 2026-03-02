@@ -1,2 +1,1 @@
-# Console-based-Java-Project
-풀스택 기초 프로젝트
+# 📦 쇼핑몰 어드민 (Console App)
